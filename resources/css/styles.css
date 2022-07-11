@@ -1,0 +1,27 @@
+.tableFormat table{
+    margin: 10px auto;
+}
+
+td, th{
+    text-align: center;
+}
+
+
+h1{
+    text-align: center;
+}
+
+form{
+    text-align: center;
+    margin-right: 40px;
+}
+
+form #spanTransaccion{
+    padding-right: 30px;
+}
+
+#btnAdd{
+    margin-top: 20px;
+    font-size: 23px;
+    
+}
